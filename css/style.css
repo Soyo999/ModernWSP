@@ -27,12 +27,16 @@ body {
     min-height:450px
   }
 
+  .peglowDetails {
+    background-color: rgba(30, 135, 228, 0.66);
+  }
+
   #LogoImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:66%;
-    max-width:400px
+    width:60%;
+    max-width:300px
   }
 
 
